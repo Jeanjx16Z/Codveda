@@ -1,16 +1,15 @@
-# Codveda
 ## Task 1: Data Collection and Web Scraping (Codveda Data Science Internship Entry Test)
 
-**Deskripsi:** Mengumpulkan data dari sebuah website menggunakan teknik web scraping.
+**Description:** Collect data from a website using web scraping techniques.
 
-**Tujuan:**
+**Objectives:**
 
-* Mengidentifikasi website target dan memeriksa strukturnya.
-* Menggunakan library `BeautifulSoup` dan `requests` untuk melakukan scraping data dari halaman web.
-* Menyimpan data yang telah di-scrape dalam format terstruktur (contoh: CSV, JSON).
-* Menangani tantangan umum seperti paginasi dan konten dinamis.
+* Identify a target website and inspect its structure.
+* Utilize the `BeautifulSoup` and `requests` libraries to scrape data from web pages.
+* Store the scraped data in a structured format (e.g., CSV, JSON).
+* Handle common challenges such as pagination and dynamic content.
 
-**Tools yang Digunakan:**
+**Tools:**
 
 * Python
 * BeautifulSoup
